@@ -54,4 +54,4 @@ new_file_name = sg.popup_get_text('What would you like the new file to be called
 # export cleaned CSV file to designated folder
 file.to_csv(folder_path + '/' + new_file_name + '.csv', sep=',', header=True)
 
-sg.popup('Thanks for using this program! If you had any issues, get mad at Cameron!')
+sg.popup('Thanks for using this program! If you had any issues, get mad at youngbloodcyb!')
